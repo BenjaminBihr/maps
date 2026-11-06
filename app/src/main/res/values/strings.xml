@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="globe_description">Globe terrestre interactif. Glisser pour le tourner, pincer pour zoomer, toucher deux fois pour centrer sur un lieu.</string>
+    <string name="tour_start">▶  Visite des capitales</string>
+    <string name="tour_stop">■  Arrêter la visite</string>
+    <string name="locate_me">Me localiser</string>
+    <string name="you_are_here">Vous êtes ici</string>
+    <string name="location_denied">Autorisez la localisation pour vous retrouver sur le globe.</string>
+    <string name="location_disabled">Activez la localisation dans les réglages.</string>
+    <string name="location_not_found">Position introuvable pour le moment.</string>
+    <string name="satellite_view">Vue satellite</string>
+    <string name="map_view">Vue carte</string>
+    <string name="sun_off">Éteindre le soleil</string>
+    <string name="sun_on">Allumer le soleil</string>
+    <string name="nasa_credit">Imagerie : NASA GIBS · Nuages : Tom Patterson</string>
+</resources>

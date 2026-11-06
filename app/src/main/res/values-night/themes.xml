@@ -1,0 +1,6 @@
+<resources>
+    <!-- Full-screen dark space behind the globe; the UI itself is drawn with Compose. -->
+    <style name="Theme.Maps" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/space</item>
+    </style>
+</resources>
